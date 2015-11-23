@@ -7,9 +7,9 @@ C = (1 - unEmployment)*averageSalary*(1 - tax);
 
 G = 
 
-I = quantity(pris - material - produktionskostaden) - carSalary*employees;
+I = 
 
-NX = 
+NX = carProd
 
 BNP = C + G + I + NX;
 
